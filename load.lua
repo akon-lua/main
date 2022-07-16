@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("https://discord.gg/gfGyfjjzzS") 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhlpy/akon/main/load.lua"))()
